@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Pasit+Boonyinglour)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rawipon+Ponsarutwanit)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I'm a Computer Science student at Kasetsart University, based in Bangkok, Thailand. I'm passionate about Front-End Development and Mobile App Development (Flutter & React Native).
